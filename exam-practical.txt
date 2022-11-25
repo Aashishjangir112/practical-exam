@@ -1,0 +1,11 @@
+create table seating_management_test
+( student_name varchar(20) not null,
+ student_reg_no number(10) not null,
+ student_age number(2),
+ block_no number(3) not null,
+ seat_no number(2) not null,
+ room_no number(4),
+ exam_date date,
+ exam_name varchar(12),
+ exam_id number(3) 
+);
