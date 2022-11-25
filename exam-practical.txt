@@ -9,3 +9,6 @@ create table seating_management_test
  exam_name varchar(12),
  exam_id number(3) 
 );
+
+This code is written by aashish
+
